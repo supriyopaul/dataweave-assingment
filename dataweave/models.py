@@ -1,9 +1,12 @@
+import os
+
 from sqlalchemy import create_engine, Column, Integer, String, ForeignKey, DECIMAL, Boolean
 from sqlalchemy.orm import relationship
 from sqlalchemy.orm import declarative_base
+from dotenv import load_dotenv
 
-#FIXME: Take input via config/environment
-DB_URL = 'sqlite:///products.db'
+load_dotenv()
+DB_URL = os.getenv('DB_URL', 'sqlite:///products.db')
 
 Base = declarative_base()
 engine = create_engine(DB_URL)

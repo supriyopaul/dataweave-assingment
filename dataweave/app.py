@@ -1,6 +1,7 @@
 import json
 import os
 
+from dotenv import load_dotenv
 import pika
 from fastapi import FastAPI, UploadFile, File, HTTPException, Query
 from sqlalchemy.sql import func, case
@@ -9,8 +10,9 @@ import uvicorn
 
 from dataweave.models import engine, ProductModel, MetaInfoModel
 
-Q_HOST = 'localhost'
-Q_NAME = 'products'
+load_dotenv()
+Q_HOST = os.getenv('Q_HOST', 'localhost')
+Q_NAME = os.getenv('Q_NAME', 'products')
 
 app = FastAPI()
 Session = sessionmaker(bind=engine)
@@ -66,7 +68,7 @@ async def ingest(file: UploadFile = File(...)):
     return {"detail": f"File ingested successfully with {total_records} records."}
 
 @app.get("/products")
-def get_products(limit: int = Query(default=10, ge=1), offset: int = Query(default=0, ge=0)):
+def get_products(limit: int = Query(default=20, ge=1), offset: int = Query(default=0, ge=0)):
     session = Session(bind=engine)
     products_with_meta = (
         session.query(ProductModel, MetaInfoModel)

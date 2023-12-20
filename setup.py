@@ -10,6 +10,7 @@ setup(
         'sqlalchemy',
         'python-multipart',
         'pika',
+        'python-dotenv',
         
     ],
     entry_points={

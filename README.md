@@ -120,13 +120,16 @@ optional arguments:
   ```bash
   dataweave runserver
   ```
-
+  **Note:** You can access the swagger on `http://0.0.0.0:8000/docs#` after running the server
 
 - Ingest data from a JSON file:
 
   ```bash
   dataweave ingest --fpath assignment_updated.json
   ```
+  **Note:** You can use the `/ingest` api for this
+  <img width="1425" alt="image" src="https://github.com/supriyopaul/dataweave-assingment/assets/33823698/5dca23d3-66d6-4bbc-9331-dead42fae02a">
+
 
 ### API Endpoints
 
@@ -135,18 +138,23 @@ optional arguments:
   ```bash
   curl -X 'GET' 'http://0.0.0.0:8000/products?limit=20&offset=0' -H 'accept: application/json'
   ```
+  <img width="1433" alt="Screenshot 2023-12-20 at 1 13 36 PM" src="https://github.com/supriyopaul/dataweave-assingment/assets/33823698/1aa50358-17e9-4405-aeac-8604b6d40d5e">
+  <img width="1427" alt="image" src="https://github.com/supriyopaul/dataweave-assingment/assets/33823698/018d8565-2095-48f2-9d4e-3360a30e3921">
+
 
 - Get score information:
 
   ```bash
   curl -X 'GET' 'http://0.0.0.0:8000/score/' -H 'accept: application/json'
   ```
+  <img width="1425" alt="Screenshot 2023-12-20 at 1 14 21 PM" src="https://github.com/supriyopaul/dataweave-assingment/assets/33823698/017865ca-56c0-4785-b5eb-a874737d37a2">
 
-# Dockerizing DataWeave Application
+
+## Dockerizing DataWeave Application
 
 To containerize the DataWeave application, a Dockerfile is created. This Dockerfile will define the steps to set up the Python environment, install dependencies, and run the application within a Docker container. Additionally, the Docker commands for building and running the container will be provided, along with instructions on how to use the `.env` file for configuration.
 
-## Building the Docker Image
+### Building the Docker Image
 
 To build the Docker image, use the following command in your project directory:
 
@@ -156,7 +164,7 @@ docker build -t dataweave-app .
 
 This command builds the Docker image with the tag `dataweave-app`.
 
-## Running the Docker Container
+### Running the Docker Container
 
 Before running the container, make sure you have an `.env` file with the necessary environment variables set up in your project directory. 
 
@@ -168,11 +176,11 @@ docker run --name dataweave-container --network dataweave-network --env-file .en
 
 This command starts a new container named `dataweave-container` in detached mode. It loads environment variables from the `.env` file and maps port 8000 of the container to port 8000 on the host machine.
 
-## Accessing the Application
+### Accessing the Application
 
 Once the container is running, the DataWeave application should be accessible via `http://localhost:8000` on your host machine.
 
-## Stopping and Removing the Container
+### Stopping and Removing the Container
 
 To stop the running container, use:
 

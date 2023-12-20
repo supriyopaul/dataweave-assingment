@@ -1,0 +1,140 @@
+{
+    "index": 0,
+    "meta_info": "{'account_code': 'demo1', 'crawl_page_counter': 141, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '2800021730', 'bundle_definition_hash': '-'}",
+    "available_price": "-3",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 1,
+    "meta_info": "{'account_code': 'demo2', 'crawl_page_counter': 123, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1780014932', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 2,
+    "meta_info": "{'account_code': 'demo2', 'crawl_page_counter': 75, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1500004526', 'bundle_definition_hash': '-'}",
+    "available_price": "-3",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 3,
+    "meta_info": "{'account_code': 'demo1', 'crawl_page_counter': 46, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1380055239', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 4,
+    "meta_info": "{'account_code': 'demo3', 'crawl_page_counter': 44, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1380044788', 'bundle_definition_hash': '-'}",
+    "available_price": "3.44",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 5,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 150, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '4154861404', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 6,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 128, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1780017025', 'bundle_definition_hash': '-'}",
+    "available_price": "2.98",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 7,
+    "meta_info": "{'account_code': 'demo4', 'crawl_page_counter': 70, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1500004501', 'bundle_definition_hash': '-'}",
+    "available_price": "1.73",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 8,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 43, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1380044730', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 9,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 112, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1500007608', 'bundle_definition_hash': '-'}",
+    "available_price": "2.17",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 10,
+    "meta_info": "{'account_code': 'demo6', 'crawl_page_counter': 47, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1380055812', 'bundle_definition_hash': '-'}",
+    "available_price": "5.16",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 11,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 125, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1780015512', 'bundle_definition_hash': '-'}",
+    "available_price": "21.78",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 12,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 169, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '5000057281', 'bundle_definition_hash': '-'}",
+    "available_price": "14.94",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 13,
+    "meta_info": "{'account_code': 'demo4', 'crawl_page_counter': 92, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1500007000', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 14,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 152, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '4154862010', 'bundle_definition_hash': '-'}",
+    "available_price": "7.58",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 15,
+    "meta_info": "{'account_code': 'demo4', 'crawl_page_counter': 34, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1380017420', 'bundle_definition_hash': '-'}",
+    "available_price": "4.01",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 16,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 87, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '1500004834', 'bundle_definition_hash': '-'}",
+    "available_price": "2.30",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 17,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 145, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '2800081320', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "In Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 18,
+    "meta_info": "{'account_code': 'demous', 'crawl_page_counter': 151, 'postal_zip_code': '17050', 'postal_zip_name': 'Mechanicsburg', 'store_code': '-', 'place_name': 'Mechanicsburg', 'admin_name1': 'Pennsylvania', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '4154861604', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}
+{
+    "index": 19,
+    "meta_info": "{'account_code': 'demo5', 'crawl_page_counter': 156, 'postal_zip_code': '22315', 'postal_zip_name': 'Alexandria', 'store_code': '-', 'place_name': 'Alexandria', 'admin_name1': 'Virginia', 'bundle_versions_row_pk_hash': '-', 'major_version_end_time': '20231206050000', 'bundle_variant_field_mapping': {}, 'bundle_definition': {}, 'fulfilment_modes': [], 'seller_name': '-', 'bundle_match_type': 'EXACT', 'reference_product_id': '5000000124', 'bundle_definition_hash': '-'}",
+    "available_price": "0",
+    "stock": "Out Of Stock",
+    "source": "Amazon-US"
+}

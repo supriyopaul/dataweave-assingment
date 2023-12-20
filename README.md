@@ -1,9 +1,5 @@
 # DataWeave Assignment
 
-## Overview
-
-DataWeave is a versatile command-line tool designed to facilitate server management, RabbitMQ tasks, and database interactions for handling product data. This tool is essential for developers and system administrators working with product data ingestion and retrieval in a RabbitMQ and SQLite environment.
-
 ## Prerequisites
 
 - Python 3.9
@@ -179,19 +175,3 @@ This command starts a new container named `dataweave-container` in detached mode
 ### Accessing the Application
 
 Once the container is running, the DataWeave application should be accessible via `http://localhost:8000` on your host machine.
-
-### Stopping and Removing the Container
-
-To stop the running container, use:
-
-```bash
-docker stop dataweave-container
-```
-
-To remove the container once stopped, use:
-
-```bash
-docker rm dataweave-container
-```
-
-By following these steps, you can effectively dockerize and manage the DataWeave application within a Docker environment.
